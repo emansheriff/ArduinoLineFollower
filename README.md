@@ -40,5 +40,3 @@ This project implements a 3-IR-sensor line follower robot using:
 2. Select **Arduino UNO**
 3. Upload via USB
 
-## License
-MIT License
